@@ -1,0 +1,36 @@
+link.exch,link.id,link.page,exchange,name,symbol
+aex,11797,aalberts-industries,AEX,Aalberts Industries,AALB
+aex,11754,aegon,AEX,Aegon,AGN
+aex,612967,abn-amro,AEX,ABN AMRO,ABN48
+aex,11755,ahold-kon,AEX,Koninklijke Ahold,AH
+aex,11756,akzo-nobel,AEX,Akzo Nobel,AKZA
+aex,590174,altice-sa,AEX,Altice,ATC
+aex,11895,arcelormittal,AEX,ArcelorMittal,MT
+aex,16923,asml-holding,AEX,ASML Holding,ASML
+aex,11825,boskalis-westmkon,AEX,Koninklijke Boskalis Westminster,BOKA
+aex,11764,dsm-kon,AEX,Koninklijke DSM,DSM
+aex,360191811,gemalto,AEX,Gemalto,AXALT
+aex,11770,heineken,AEX,Heineken,HEIA
+aex,11773,ing-groep,AEX,ING Groep,INGA
+aex,25845,kpn-kon,AEX,Koninklijke KPN,KPN
+aex,610720,nn-group,AEX,NN Group,NN12
+aex,11783,philips-kon,AEX,Koninklijke Philips,PHIA
+aex,11785,randstad,AEX,Randstad,RAND
+aex,11765,reed-elsevier,AEX,RELX,REN
+aex,210964,shell,AEX,Royal Dutch Shell A,RDSA1
+aexny,11889,sbm-offshore,AEX,SBM Offshore,SBMO
+aex,401827,tnt-express,AEX,TNT Express,TNTE
+aex,360115972,unibail-rodamco,AEX,Unibail-Rodamco,PUL
+aex,11791,unilever-cert,AEX,Unilever Certificate,UNA
+aex,101431,vopak-kon,AEX,Koninklijke Vopak,VPK
+aex,11795,wolters-kluwer,AEX,Wolters Kluwer,WKL
+amx,360114884,air-france-klm,AMX,Air France-KLM,PSE:AF
+amx,383621,aperam,AMX,Aperam,AEX:APAM
+amx,16953,arcadis,AMX,Arcadis,AEX:ARCAD
+amx,11808,asm-internationa,AMX,ASM International,AEX:ASM
+amx,11816,bam-groep-kon,AMX,BAM Groep Koninklijke,AEX:BAMNB
+overig,11820,be-semiconductor-ind,AMX,BE Semiconductor Industries,BESI
+amx,11762,csm,AMX,Corbion,AEX:CRBN
+amx,322033,delta-lloyd-groep,AMX,Delta Lloyd,AEX:DL
+amx,12181,eurocommercial-prop,AMX,Eurocommercial Properties,AEX:ECMPA
+amx,612908,flow-traders,AMX,Flow Traders,AEX:FLOW
